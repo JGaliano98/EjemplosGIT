@@ -16,7 +16,7 @@ Algoritmo Relacion5_13
 		Para i<-1 Hasta 10 //Al contador se le asigna que empiece en el 1, y el bucle se repite hasta que llega a 10.
 			resultado<-numin1*i; //La variable resultado se obtiene de la multiplicación del numero introducido por el usuario y el número del contador que toque en ese momento de entre el rango especificaco, en este caso de 1 a 10.
 			Escribir ,numin1,"x",i,"=",resultado; //Se muestra por pantalla cada dato y el resultado.
-			
+			//Hola
 		Fin Para
 		Escribir "-----------------";
 		Escribir "Siguiente tabla";   //Separa una tabla de otra, para evitar que los datos estén juntos y se vea con claridad.
