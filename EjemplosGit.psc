@@ -22,5 +22,5 @@ Algoritmo Relacion5_13
 		Escribir "Siguiente tabla";   //Separa una tabla de otra, para evitar que los datos estén juntos y se vea con claridad.
 		Escribir "-----------------";
 	Fin Para
-	
+	//HOLA ES PRUEBA
 FinAlgoritmo
