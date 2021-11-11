@@ -93,3 +93,4 @@ Algoritmo Relacion6_5
 			Fin Segun
 		Fin Mientras
 FinAlgoritmo
+//HOLA SOY YO
